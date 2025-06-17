@@ -1,4 +1,4 @@
-#🧠 Insurance Risk Analysis & Predictive Modeling (10 Academy – AIM Week 3)
+#🧠 End-to-End Insurance Risk Analysis & Predictive Modeling (10 Academy – AIM Week 3)
 
 ## 🎯 Goal of the Project
 This project leverages South African auto insurance data to identify risk profiles and develop predictive models, empowering AlphaCare Insurance Solutions to:
