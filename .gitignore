@@ -1,0 +1,16 @@
+# ignore txt file in data directory
+data/*.txt
+!data/*.dvc
+
+*.csv
+
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+
+.vscode/
+__pycache__/
+
+*.log
